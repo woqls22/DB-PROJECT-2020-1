@@ -2,4 +2,4 @@
  KHU 2020년 1학기DB Project
 
 ## Project
-	# 주가 관련 Data Base 구축
+	주가 관련 Data Base 구축
