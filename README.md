@@ -1,0 +1,2 @@
+# DB-PROJECT-2020-1
+ KHU 2020년 1학기DB Project
